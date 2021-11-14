@@ -1,0 +1,66 @@
+{
+  "courses": [
+    {
+      "courses_id": 1,
+      "courses_name": "JAVA",
+      "image": "images/c1.png",
+      "price": "3000$",
+      "Description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. "
+    },
+    {
+      "courses_id": 2,
+      "courses_name": "C",
+      "image": "images/c2.jpg",
+      "price": "3000$",
+      "Description": "C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. "
+    },
+    {
+      "courses_id": 3,
+      "courses_name": "C++",
+      "image": "images/c3.png",
+      "price": "3000$",
+      "Description": "C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language"
+    },
+    {
+      "courses_id": 4,
+      "courses_name": "PYTHON",
+      "image": "images/c4.png",
+      "price": "3000$",
+      "Description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation"
+    }
+  ],
+  "user": [
+    {
+      "id": 0.6931523223946188,
+      "Name": "KAMESH",
+      "Email": "kamesh@gmail.com",
+      "MobileNumber": "9860199419",
+      "CourseId": 1,
+      "CourseName": "JAVA"
+    },
+    {
+      "id": 0.23381000218569192,
+      "Name": "Ram",
+      "Email": "kamesh1999@gmail.com",
+      "MobileNumber": "99921445656",
+      "CourseId": 2,
+      "CourseName": "Python"
+    },
+    {
+      "id": 0.9215216788425853,
+      "Name": "Rahul",
+      "Email": "ra1234@gmail.com",
+      "MobileNumber": "9992144565",
+      "CourseId": 1,
+      "CourseName": "JAVA"
+    },
+    {
+      "id": 0.04821281607072492,
+      "Name": "Anurag",
+      "Email": "Anurag12@gmail.com",
+      "MobileNumber": "9966443311",
+      "CourseId": 2,
+      "CourseName": "C"
+    }
+  ]
+}
